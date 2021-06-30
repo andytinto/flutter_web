@@ -6,7 +6,7 @@ guide by https://buildwithangga.com/
 
 asset from https://www.freepik.com/
 
-Link web hardcore-bassi-928c0e.netlify.app
+Link web https://hardcore-bassi-928c0e.netlify.app/#/
 
 ## Getting Started
 
