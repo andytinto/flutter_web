@@ -1,7 +1,13 @@
 # flutter_web
 
 A new Flutter project.
+
 guide by https://buildwithangga.com/ 
+
+asset from https://www.freepik.com/
+
+## Preview Page
+
 
 ## Getting Started
 
