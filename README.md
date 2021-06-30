@@ -6,6 +6,8 @@ guide by https://buildwithangga.com/
 
 asset from https://www.freepik.com/
 
+Link web hardcore-bassi-928c0e.netlify.app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
