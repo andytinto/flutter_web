@@ -6,9 +6,6 @@ guide by https://buildwithangga.com/
 
 asset from https://www.freepik.com/
 
-## Preview Page
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
